@@ -2,7 +2,7 @@
 
 # Machine Learning Journey 🚀
 
-Hi, I'm Atharva 👋  
+Hi, I'm Atharva C Lakade
 I'm a 2nd year AI & DS student documenting my ML journey.
 
 ## Goals
