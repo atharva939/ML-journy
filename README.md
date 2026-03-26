@@ -11,7 +11,7 @@ I'm a 2nd year AI & DS student documenting my ML journey.
 - Become job-ready in Data Science
 
 ## Progress
-- [ ] Python Basics
+- [x] Python Basics
 - [ ] NumPy & Pandas
 - [ ] Data Visualization
 - [ ] Machine Learning Models
