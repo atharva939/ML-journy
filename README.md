@@ -12,8 +12,8 @@ I'm a 2nd year AI & DS student documenting my ML journey.
 
 ## Progress
 - [x] Python Basics
-- [ ] NumPy & Pandas
-- [ ] Data Visualization
+- [x] NumPy & Pandas
+- [x] Data Visualization
 - [ ] Machine Learning Models
 - [ ] Projects
 
